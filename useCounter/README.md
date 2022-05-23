@@ -1,5 +1,7 @@
 # useCounter Hook
 
+Increments and decrements a counter by 1. Also reset to default value.
+
 Usage:
 
 ```
